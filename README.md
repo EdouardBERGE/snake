@@ -14,3 +14,5 @@ Keys where choosen to avoid keyboard clash on the real machine, that's why there
 
 Enjoy this for what it is => A mini game!
 
+![screenshot](https://github.com/EdouardBERGE/snake/blob/main/screenshot.png)
+
