@@ -8,7 +8,7 @@ run #100
 
 di
 ld bc,#7F00+%10001101 : out (c),c ; MODE 1 !!!
-
+ld bc,#FA7E : out (c),0 ; Floppy MOTOR OFF
 ld hl,mycode
 ld de,#1000
 
